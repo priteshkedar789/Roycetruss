@@ -1,0 +1,10 @@
+{
+  "name": "roycetruss",
+  "scripts": {
+    "deploy": "wrangler pages deploy",
+    "dev": "wrangler pages dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}
