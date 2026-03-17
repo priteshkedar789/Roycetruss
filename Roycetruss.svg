@@ -31,7 +31,7 @@
 
   <text x="70" y="390" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-style="italic" fill="#FFFFFF" opacity="0.6" letter-spacing="0.5">Not a vendor. A technology partner.</text>
 
-  <text x="540" y="210" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#FFFFFF">Er. Pritesh P Kedar</text>
+  <text x="540" y="210" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" fill="#FFFFFF"> Pritesh P Kedar</text>
   <text x="540" y="240" font-family="'Courier New', monospace" font-size="14" fill="#C8922A" letter-spacing="1.5">Founder</text>
 
   <g transform="translate(540, 310)">
